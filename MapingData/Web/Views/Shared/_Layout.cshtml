@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link type="text/css" href="Content/style.css" rel="stylesheet"/>
+
+    
+</head>
+<body>
+     <div id="userInfo">
+        <div class="AboutUser">
+            
+            
+            <img id="imgUser" src="~/Images/img1.jpg" />
+            
+            <div>
+                <label>Login</label>
+                <input />
+            </div>
+            <div>
+                <label>Password</label>
+                <input />
+            </div>
+            <div>
+                <input type="submit" value="Gog" />
+            </div>
+
+        </div> 
+         <button id="USbut" type="submit">Open</button>
+    </div>
+    
+    
+    <div id="main">
+        <div id="footer">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">History</a></li>
+            </ul>
+            <button id="registerBut" type="submit">Register</button>
+        </div>
+
+
+        <div id="content">
+           <div id="contentSubmenu">
+               <ul>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+                   <li><a href="#">Option1</a></li>
+               </ul>
+           </div>
+
+            <div id="contentResult">
+                @RenderBody()
+            </div>
+
+           
+
+
+        </div>
+    </div>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript" src="~/Scripts/site.js"></script>
+</body>
+
+</html>

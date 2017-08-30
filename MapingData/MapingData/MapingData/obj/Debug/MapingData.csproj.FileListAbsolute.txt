@@ -1,0 +1,27 @@
+C:\Users\Ion C#\Desktop\MapingData\MapingData\MapingData\bin\Debug\MapingData.exe.config
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\MapingData.exe.config
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\MapingData.exe
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\MapingData.pdb
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\NHibernate.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\bin\Debug\NHibernate.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\obj\Debug\MapingData.csprojResolveAssemblyReference.cache
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\obj\Debug\MapingData.exe
+D:\Cursuri\AUGUST\2.7 ORM introduction\MapingData\MapingData\MapingData\obj\Debug\MapingData.pdb
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\MapingData.exe.config
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\MapingData.exe
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\MapingData.pdb
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\NHibernate.dll
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\bin\Debug\NHibernate.xml
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\obj\Debug\MapingData.csprojResolveAssemblyReference.cache
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\obj\Debug\MapingData.exe
+D:\Cursuri\AUGUST\2.7 ORM introduction++\MapingData\MapingData\MapingData\obj\Debug\MapingData.pdb

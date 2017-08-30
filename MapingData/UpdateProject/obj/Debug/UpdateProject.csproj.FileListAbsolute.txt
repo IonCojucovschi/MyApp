@@ -1,0 +1,39 @@
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe.config
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.pdb
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.dll
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.xml
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.csprojResolveAssemblyReference.cache
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.exe
+D:\Cursuri\AUGUST\2.8 Isession\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.pdb
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe.config
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.exe
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.pdb
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.pdb
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.dll
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.dll
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.dll
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.pdb
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.xml
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.xml
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.xml
+C:\Users\Ion C#\Desktop\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe.config
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.exe
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\UpdateProject.pdb
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.dll
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\bin\Debug\NHibernate.xml
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.exe
+D:\Cursuri\Modulul 2\2.10 QueryOverAdvanced\Assesment\MapingData\UpdateProject\obj\Debug\UpdateProject.pdb
